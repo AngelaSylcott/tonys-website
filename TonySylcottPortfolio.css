@@ -1,0 +1,27 @@
+h1 {
+	font-size: 40px;
+	font-family: 'Francois One', sans-serif;
+}
+
+.jumbotron {
+	padding: 10%;
+	font-family: 'Francois One', sans-serif;
+	background-image: "NavBG.png"
+}
+
+.navbar {
+	background-color: white;
+}
+
+.navbar a {
+	text-align: center;
+	color: black;
+	font-family: 'Fancois One', sans-serif;
+	float: right;
+} 
+
+.headshot {
+	float: right;
+	height: 200px;
+	width: 200px;
+}
